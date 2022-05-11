@@ -6,7 +6,7 @@
     I am <b>Roberto Verdecchia </b> <br> 
     I'm a  <b>Postodoctoral research associate </b> of the <a href="https://s2-group.github.io/">Software and Sustainability group</a>
    <br> at the <a href="https://vu.nl/en">Vrije Universiteit Amsterdam</a>.<br>
-  <br> My research interest focuses on research interests focus on <br>the adoption of <b>empirical methods</b><br> to improve <b>software development</b> and <b>system evolution</b>,<br> with particular interest in the fields of<br> <b>technical debt</b>📈<br> <b>software architecture</b>🏠<br> software <b>energy sustainability 🌱</b><br> and <b>software testing</b>🐞<br>
+  <br> My research interest focuses on<br>the adoption of <b>empirical methods</b><br> to improve <b>software development</b> and <b>system evolution</b>,<br> with particular interest in the fields of<br> <b>technical debt</b>📈<br> <b>software architecture</b>🏠<br> software <b>energy sustainability 🌱</b><br> and <b>software testing</b>🐞<br>
   <br> If you are more interested in me and my research, rather than my code,<br> I would suggest you to browse my 
   <a href="https://robertoverdecchia.github.io">personal website🦊</a> or my <a href="https://robertoverdecchia.github.io/publications">publication page📚</a>
   </p><br>
