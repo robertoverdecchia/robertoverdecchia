@@ -37,7 +37,7 @@
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=robertoverdecchia&color=red" /> </p> -->
 <p align= "center">
 <img src="https://github-readme-stats.vercel.app/api?username=robertoverdecchia&show_icons=true&theme=tokyonight" alt="Roberto Verdecchia GitHub stats"><br>
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoverdecchia&layout=compact&theme=tokyonight" alt="Top Languages"><br>-->
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoverdecchia&hide=javascript,html,css&langs_count=4&layout=compact&theme=tokyonight" alt="Top Languages"><br>-->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=robertoverdecchia&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak">
   </p>
 <!-- 
